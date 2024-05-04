@@ -1,0 +1,25 @@
+accelerate==0.28.0
+bert-score==0.3.13
+bleurt-pytorch @ git+https://github.com/lucadiliello/bleurt-pytorch.git@279ca1bb4106bde5a89f0f82723197e23d8446cb
+datasets==2.18.0
+evaluate==0.4.1
+huggingface-hub==0.21.4
+matplotlib==3.8.3
+numpy==1.26.3
+regex==2023.12.25
+requests==2.31.0
+responses==0.18.0
+s3transfer==0.10.1
+safetensors==0.4.2
+scikit-learn==1.4.1.post1
+scipy==1.12.0
+seaborn==0.13.2
+sentencepiece==0.2.0
+statsmodels==0.14.1
+tokenizers==0.15.2
+torch==2.2.1+cu118
+torchaudio==2.2.1+cu118
+torchvision==0.17.1+cu118
+tqdm==4.66.2
+transformers==4.38.2
+triton==2.2.0
