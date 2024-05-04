@@ -1,1 +1,11 @@
 data/flute-v-llava-clean filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/evil_vflute_valid.json filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-noimage-valid.csv filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-train.csv filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-train.json filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-valid.csv filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-valid.json filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/evil_vflute_train.json filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-noimage-train.csv filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-noimage-train.json filter=lfs diff=lfs merge=lfs -text
+data/flute-v-llava-clean/vflute-v2-noimage-valid.json filter=lfs diff=lfs merge=lfs -text
