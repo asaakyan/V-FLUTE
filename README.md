@@ -8,7 +8,9 @@ The dataset is available on [HuggingFace](https://huggingface.co/datasets/Columb
 
 # Models
 
-Models will be uploaded on HuggingFace soon.
+You can reproduce fine-tuned the models using the scripts in LLaVA/scripts/vflute and hyperparameters in the paper.
+
+Select models will be uploaded to HuggingFace soon.
 
 # Citation
 
