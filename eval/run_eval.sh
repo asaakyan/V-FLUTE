@@ -1,6 +1,6 @@
 #!/bin/bash
 
-7B-eViL-VFLUTE
+# 7B-eViL-VFLUTE
 python run_eval.py \
     --model_dir "llava-v1.5-7b-evil-vflue-v2-lora/checkpoint-4380" \
     --model_base "llava-v1.5-7b" \
