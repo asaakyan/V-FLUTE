@@ -1,4 +1,5 @@
 To obtain eViL data (e-SNLI-VE), follow instructions in their repo:
 https://github.com/necla-ml/SNLI-VE
 
-The V-FLUTE subset as used for training is available via Git LFS in this repo under data/images. The version of huggingface is identical except the order may be different. Some vismet instances were also incorrectly labeled as simile in the dataset on Git LFS.
+The V-FLUTE subset as used for training (in the same order as was used for the script and with the same id field) as well as the eViL subset are available via [Zenodo](https://zenodo.org/records/11114281)
+Some V-FLUTE instances were also incorrectly labeled as simile in the dataset on Git LFS.
