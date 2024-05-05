@@ -10,7 +10,8 @@ The dataset is available on [HuggingFace](https://huggingface.co/datasets/Columb
 
 You can reproduce fine-tuned the models using the scripts in LLaVA/scripts/vflute and hyperparameters in the paper.
 
-Select models will be uploaded to HuggingFace soon.
+Our best model is available on HuggingFace here:
+[LLaVA-1.5-7b-eViL-VFLUTE-lora](https://huggingface.co/asaakyan/LLaVA-1.5-7b-eViL-VFLUTE-lora)
 
 # Citation
 
