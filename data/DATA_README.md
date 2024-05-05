@@ -1,6 +1,9 @@
+The data in this section on GitHub is porvided solely for reproducibility purposes. Please utilize the Huggingface dataset for other use-cases.
+
 The test data is provided in a ZIP format.
 
-The V-FLUTE subset as used for training (in the same order as was used for the script and with the same id field) as well as the eViL subset are available via [Zenodo](https://zenodo.org/records/11114281)
+The images for the V-FLUTE subset exactly as used for training (with IDs corresponding to the ones in the data in this repo) as well as the images for the eViL subset are available via [Zenodo](https://zenodo.org/records/11114281)
+
 Some V-FLUTE instances were also incorrectly labeled as simile in the dataset on Zenodo (does not affect fine-tuning or results).
 
 To obtain eViL data (e-SNLI-VE), follow instructions in their repo:
