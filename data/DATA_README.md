@@ -1,4 +1,4 @@
-The data in this section on GitHub is porvided solely for reproducibility purposes. Please utilize the Huggingface dataset for other use-cases.
+The data in this section on GitHub is porvided solely for reproducibility purposes. Please utilize the Huggingface dataset for other use-cases. You can use the convert_to_llava_formay.ipynb notebook in the data_processing folder to convert the data from HuggingFace to LLaVA fine-tuning format.
 
 The test data is provided in an ecnrypted ZIP format. The password is "metaphor".
 
