@@ -15,7 +15,7 @@ Our best model is available on HuggingFace here:
 
 # Evaluation
 
-See the eval folder for scripts to compute F1@ExplanationScore and and run inference on the test set. The test set will not be released on GitHub, only on HuggingFace.
+See the eval folder for scripts to compute F1@ExplanationScore and and run inference on the test set.
 
 # Citation
 
