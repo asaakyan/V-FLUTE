@@ -1,6 +1,6 @@
 # V-FLUTE
 
-This is a repository for the paper [V-FLUTE: Visual Figurative Language Understanding with Textual Explanations](https://arxiv.org/abs/2405.01474)
+This is a repository for the paper [Understanding Figurative Meaning through Explainable Visual Entailment](https://arxiv.org/abs/2405.01474)
 
 # Data
 
@@ -20,13 +20,13 @@ See the eval folder for scripts to compute F1@ExplanationScore and and run infer
 # Citation
 
 ```
-@misc{saakyan2024vflute,
-      title={V-FLUTE: Visual Figurative Language Understanding with Textual Explanations}, 
-      author={Arkadiy Saakyan and Shreyas Kulkarni and Tuhin Chakrabarty and Smaranda Muresan},
-      year={2024},
-      eprint={2405.01474},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@misc{saakyan2024understanding,
+    title={Understanding Figurative Meaning through Explainable Visual Entailment},
+    author={Arkadiy Saakyan and Shreyas Kulkarni and Tuhin Chakrabarty and Smaranda Muresan},
+    year={2024},
+    eprint={2405.01474},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 ```
 
