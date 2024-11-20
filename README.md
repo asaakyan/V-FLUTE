@@ -1,10 +1,10 @@
-# V-FLUTE
+# Understanding Figurative Meaning through Explainable Visual Entailment
 
 This is a repository for the paper [Understanding Figurative Meaning through Explainable Visual Entailment](https://arxiv.org/abs/2405.01474)
 
 # Data
 
-The dataset is available on [HuggingFace](https://huggingface.co/datasets/ColumbiaNLP/V-FLUTE).
+The **V-FLUTE** dataset is available on [HuggingFace](https://huggingface.co/datasets/ColumbiaNLP/V-FLUTE).
 
 # Models
 
