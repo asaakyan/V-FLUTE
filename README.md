@@ -20,13 +20,24 @@ See the eval folder for scripts to compute F1@ExplanationScore and and run infer
 # Citation
 
 ```
-@misc{saakyan2024understanding,
-    title={Understanding Figurative Meaning through Explainable Visual Entailment},
-    author={Arkadiy Saakyan and Shreyas Kulkarni and Tuhin Chakrabarty and Smaranda Muresan},
-    year={2024},
-    eprint={2405.01474},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{saakyan-etal-2025-understanding,
+    title = "Understanding Figurative Meaning through Explainable Visual Entailment",
+    author = "Saakyan, Arkadiy  and
+      Kulkarni, Shreyas  and
+      Chakrabarty, Tuhin  and
+      Muresan, Smaranda",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.1/",
+    pages = "1--23",
+    ISBN = "979-8-89176-189-6",
+    abstract = "Large Vision-Language Models (VLMs) have demonstrated strong capabilities in tasks requiring a fine-grained understanding of literal meaning in images and text, such as visual question-answering or visual entailment. However, there has been little exploration of the capabilities of these models when presented with images and captions containing figurative meaning, such as metaphors or humor. To close this gap, we propose a new task framing the figurative meaning understanding problem as an explainable visual entailment task, where the model has to predict whether the image (premise) entails a caption (hypothesis) and justify the predicted label with a textual explanation. The figurative phenomena can be present in the image, in the caption, or both. Using a human-AI collaboration approach, we build the accompanying expert-verified dataset V-FLUTE, containing 6,027 image, caption, label, explanation instances spanning five diverse figurative phenomena: metaphors, similes, idioms, sarcasm, and humor. Through automatic evaluation, we find that VLMs struggle to generalize from literal to figurative meaning, particularly when it is present in images. Further, we identify common types of errors in VLM reasoning (hallucination and incomplete or unsound reasoning) across classes of models via human evaluation."
 }
 ```
 
